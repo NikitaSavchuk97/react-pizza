@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b063f50.css",
+    "main.js": "/static/js/main.a42f7e0f.js",
+    "static/media/empty-cart.png": "/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/index.html",
+    "main.9b063f50.css.map": "/static/css/main.9b063f50.css.map",
+    "main.a42f7e0f.js.map": "/static/js/main.a42f7e0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b063f50.css",
+    "static/js/main.a42f7e0f.js"
+  ]
+}
